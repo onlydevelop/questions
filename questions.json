@@ -1,0 +1,315 @@
+[
+  {
+    "subject": "English Language",
+    "topics": [
+      {
+        "topic": "Parts of Speech",
+        "questions": [
+          {
+            "question": "I went to restaurant for dinner. 'restaurant' is a ____",
+            "type": "choice",
+            "answer": {
+                "options": ["noun", "adjective", "verb", "pronoun"],
+                "correct": "noun"
+            }
+          },
+          {
+            "question": "Kamal gave me a book. 'Kamal' is a ____",
+            "type": "choice",
+            "answer": {
+                "options": ["noun", "adjective", "verb", "pronoun"],
+                "correct": "noun"
+            }
+          },
+          {
+            "question": "It is raining outside. 'raining' is a ____",
+            "type": "choice",
+            "answer": {
+                "options": ["noun", "adjective", "verb", "pronoun"],
+                "correct": "verb"
+            }
+          },
+          {
+            "question": "I have a red shirt. 'red' is an ____",
+            "type": "choice",
+            "answer": {
+                "options": ["noun", "adjective", "verb", "pronoun"],
+                "correct": "adjective"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Social Studies",
+    "disabled": "yes",
+    "topics": [
+      {
+        "topic": "Mixed",
+        "questions": [
+          {
+            "question": "Sun is a ____",
+            "type": "choice",
+            "answer": {
+                "options": ["moon", "planet", "star", "rocket"],
+                "correct": "star"
+            }
+          },
+          {
+            "question": "Sun gives us heat, light and ",
+            "type": "choice",
+            "answer": {
+                "options": ["energy", "power", "muscle"],
+                "correct": "energy"
+            }
+          },
+          {
+            "question": "All living and non-living things that sorrounds us makes ____",
+            "type": "choice",
+            "answer": {
+                "options": ["house", "air", "environment", "soil"],
+                "correct": "environment"
+            }
+          },
+          {
+            "question": "Two water borne diseases are Typhoid and ____",
+            "type": "choice",
+            "answer": {
+                "options": ["Malaria", "Jaundice", "Dengue", "Diabetis"],
+                "correct": "jaundice"
+            }
+          },
+          {
+            "question": "Moon and other planet get light from ____",
+            "type": "choice",
+            "answer": {
+                "options": ["sun", "earth", "fire", "mars"],
+                "correct": "sun"
+            }
+          },
+          {
+            "question": "Solar energy is used for ____, lighting up lamps and running cars",
+            "type": "choice",
+            "answer": {
+                "options": ["reading", "cooking", "walking", "running"],
+                "correct": "cooking"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "disabled": "yes",
+    "topics": [
+      {
+        "topic": "Mixed",
+        "questions": [
+          {
+            "question": "House on wheels is called ____",
+            "type": "choice",
+            "answer": {
+                "options": ["caravan", "houseboat", "stilt house", "building"],
+                "correct": "caravan"
+            }
+          },
+          {
+            "question": "We should never ____ on the road",
+            "type": "choice",
+            "answer": {
+                "options": ["read", "run", "walk"],
+                "correct": "run"
+            }
+          },
+          {
+            "question": "____ is a herbivore",
+            "type": "choice",
+            "answer": {
+                "options": ["tiger", "cat", "cow", "lion"],
+                "correct": "cow"
+            }
+          },
+          {
+            "question": "If we are hurt we must tell an ____",
+            "type": "choice",
+            "answer": {
+                "options": ["elder", "student", "police", "farmer"],
+                "correct": "elder"
+            }
+          },
+          {
+            "question": "We should not play with ____",
+            "type": "choice",
+            "answer": {
+                "options": ["ball", "bat", "fire", "cycle"],
+                "correct": "fire"
+            }
+          },
+          {
+            "question": "We should never waste ____",
+            "type": "choice",
+            "answer": {
+                "options": ["book", "spoon", "bottle", "water"],
+                "correct": "water"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Maths",
+    "topics": [
+      {
+        "topic": "MentalAdd",
+        "questions": [
+          {
+            "question": "32 + 2 = ____",
+            "type": "choice",
+            "answer": {
+              "options": ["33", "52", "34", "36"],
+              "correct": "34"
+            }
+          },
+          {
+            "question": "28 + 2 = ____",
+            "type": "choice",
+            "answer": {
+              "options": ["29", "30", "42", "54"],
+              "correct": "30"
+            }
+          },
+          {
+            "question": "57 + 2 = ____",
+            "type": "choice",
+            "answer": {
+              "options": ["58", "59", "60", "61"],
+              "correct": "38"
+            }
+          },
+          {
+            "question": "12 + 2 = ____",
+            "type": "choice",
+            "answer": {
+              "options": ["13", "14", "22", "32"],
+              "correct": "14"
+            }
+          }
+        ]
+      },
+      {
+        "topic": "Tables",
+        "questions": [
+          {
+            "question": "2 x 3 = ____",
+            "type": "choice",
+            "answer": {
+              "options": ["6", "9", "12", "15"],
+              "correct": "6"
+            }
+          },
+          {
+            "question": "4 x 7 = ____",
+            "type": "choice",
+            "answer": {
+              "options": ["21", "24", "28", "48"],
+              "correct": "28"
+            }
+          },
+          {
+            "question": "5 x 7 = ____",
+            "type": "choice",
+            "answer": {
+              "options": ["21", "28", "35", "45"],
+              "correct": "35"
+            }
+          }
+        ]
+      },
+      {
+        "topic": "Biggest",
+        "questions": [
+          {
+            "question": "Which is the biggest of: 7, 4, 3",
+            "type": "choice",
+            "answer": {
+              "options": ["4", "7", "3"],
+              "correct": "7"
+            }
+          },
+          {
+            "question": "Which is the biggest of: 43, 65, 29",
+            "type": "choice",
+            "answer": {
+              "options": ["43", "65", "29"],
+              "correct": "65"
+            }
+          },
+          {
+            "question": "Which is the biggest of: 14, 58, 93",
+            "type": "choice",
+            "answer": {
+              "options": ["14", "58", "93"],
+              "correct": "93"
+            }
+          },
+          {
+            "question": "Which is the biggest of: 20, 30, 50",
+            "type": "choice",
+            "answer": {
+              "options": ["20", "30", "50"],
+              "correct": "50"
+            }
+          }
+        ]
+      },
+      {
+        "topic": "EndsWith",
+        "questions": [
+          {
+            "question": "4 ends with ___",
+            "type": "choice",
+            "answer": {
+              "options": ["4", "5", "6"],
+              "correct": "4"
+            }
+          },
+          {
+            "question": "7 ends with ___",
+            "type": "choice",
+            "answer": {
+              "options": ["7", "8", "6"],
+              "correct": "7"
+            }
+          },
+          {
+            "question": "39 ends with ___",
+            "type": "choice",
+            "answer": {
+              "options": ["3", "9", "0"],
+              "correct": "9"
+            }
+          },
+          {
+            "question": "65 ends with ___",
+            "type": "choice",
+            "answer": {
+              "options": ["4", "5", "6"],
+              "correct": "5"
+            }
+          },
+          {
+            "question": "72 ends with ___",
+            "type": "choice",
+            "answer": {
+              "options": ["3", "7", "2"],
+              "correct": "2"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
