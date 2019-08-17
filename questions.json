@@ -1,83 +1,41 @@
 [
   {
-    "subject": "English Language",
+    "subject": "SocialStudies",
+    "disabled": "no",
     "topics": [
       {
-        "topic": "Parts of Speech",
+        "topic": "KnowingOurEarth",
         "questions": [
           {
-            "question": "I went to restaurant for dinner. 'restaurant' is a ____",
+            "question": "What is a Globe ____",
             "type": "choice",
             "answer": {
-                "options": ["noun", "adjective", "verb", "pronoun"],
-                "correct": "noun"
+                "options": ["a flat surface", "a toy", "a model of earth"],
+                "correct": "a model of earth"
             }
           },
           {
-            "question": "Kamal gave me a book. 'Kamal' is a ____",
+            "question": "We can hang ____ on the wall.",
             "type": "choice",
             "answer": {
-                "options": ["noun", "adjective", "verb", "pronoun"],
-                "correct": "noun"
+                "options": ["globe", "atlas", "wall maps"],
+                "correct": "wall maps"
             }
           },
           {
-            "question": "It is raining outside. 'raining' is a ____",
+            "question": "What is a map ____",
             "type": "choice",
             "answer": {
-                "options": ["noun", "adjective", "verb", "pronoun"],
-                "correct": "verb"
+                "options": ["a model of earth", "a drawing of the earth", "a map that we can hang on wall"],
+                "correct": "a drawing of the earth"
             }
           },
           {
-            "question": "I have a red shirt. 'red' is an ____",
+            "question": "What is an atlas ____",
             "type": "choice",
             "answer": {
-                "options": ["noun", "adjective", "verb", "pronoun"],
-                "correct": "adjective"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "subject": "Social Studies",
-    "disabled": "yes",
-    "topics": [
-      {
-        "topic": "Mixed",
-        "questions": [
-          {
-            "question": "Sun is a ____",
-            "type": "choice",
-            "answer": {
-                "options": ["moon", "planet", "star", "rocket"],
-                "correct": "star"
-            }
-          },
-          {
-            "question": "Sun gives us heat, light and ",
-            "type": "choice",
-            "answer": {
-                "options": ["energy", "power", "muscle"],
-                "correct": "energy"
-            }
-          },
-          {
-            "question": "All living and non-living things that sorrounds us makes ____",
-            "type": "choice",
-            "answer": {
-                "options": ["house", "air", "environment", "soil"],
-                "correct": "environment"
-            }
-          },
-          {
-            "question": "Two water borne diseases are Typhoid and ____",
-            "type": "choice",
-            "answer": {
-                "options": ["Malaria", "Jaundice", "Dengue", "Diabetis"],
-                "correct": "jaundice"
+                "options": ["a model of earth", "a book of maps", "a drawing of the earth", "a map that we can hang on wall"],
+                "correct": "a book of maps"
             }
           },
           {
@@ -89,70 +47,123 @@
             }
           },
           {
-            "question": "Solar energy is used for ____, lighting up lamps and running cars",
+            "question": "The ____ colour on the map of the world, shows water.",
             "type": "choice",
             "answer": {
-                "options": ["reading", "cooking", "walking", "running"],
-                "correct": "cooking"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "subject": "Science",
-    "disabled": "yes",
-    "topics": [
-      {
-        "topic": "Mixed",
-        "questions": [
-          {
-            "question": "House on wheels is called ____",
-            "type": "choice",
-            "answer": {
-                "options": ["caravan", "houseboat", "stilt house", "building"],
-                "correct": "caravan"
+                "options": ["red", "blue", "green"],
+                "correct": "blue"
             }
           },
           {
-            "question": "We should never ____ on the road",
+            "question": "Very large water bodies are called ____",
             "type": "choice",
             "answer": {
-                "options": ["read", "run", "walk"],
-                "correct": "run"
+                "options": ["sea", "pond", "ocean"],
+                "correct": "ocean"
             }
           },
           {
-            "question": "____ is a herbivore",
+            "question": "The ____ is the largest ocean in the world.",
             "type": "choice",
             "answer": {
-                "options": ["tiger", "cat", "cow", "lion"],
-                "correct": "cow"
+                "options": ["pacific ocean", "atlantic ocean", "arctic ocean"],
+                "correct": "pacific ocean"
             }
           },
           {
-            "question": "If we are hurt we must tell an ____",
+            "question": "The ____ is the smallest ocean in the world.",
             "type": "choice",
             "answer": {
-                "options": ["elder", "student", "police", "farmer"],
-                "correct": "elder"
+                "options": ["pacific ocean", "atlantic ocean", "arctic ocean"],
+                "correct": "arctic ocean"
             }
           },
           {
-            "question": "We should not play with ____",
+            "question": "A ____ helps us to find directions.",
             "type": "choice",
             "answer": {
-                "options": ["ball", "bat", "fire", "cycle"],
-                "correct": "fire"
+                "options": ["globe", "compass", "map"],
+                "correct": "compass"
             }
           },
           {
-            "question": "We should never waste ____",
+            "question": "Needle of the compass always point to ____",
             "type": "choice",
             "answer": {
-                "options": ["book", "spoon", "bottle", "water"],
-                "correct": "water"
+                "options": ["east", "west", "north", "south"],
+                "correct": "north"
+            }
+          },
+          {
+            "question": "Why do we use compass ____ ",
+            "type": "choice",
+            "answer": {
+                "options": ["to find directions", "to find ocean and continents", "to find water bodies"],
+                "correct": "to find directions"
+            }
+          },
+          {
+            "question": "Book of map is called ____ ",
+            "type": "choice",
+            "answer": {
+                "options": ["atlas", "a map book", "a drawing book", "a book"],
+                "correct": "atlas"
+            }
+          },
+          {
+            "question": "What does the blue colour of the map shows ____ ",
+            "type": "choice",
+            "answer": {
+                "options": ["oceans", "seas", "river and lakes", "all of these"],
+                "correct": "all of these"
+            }
+          },
+          {
+            "question": "Large land masses are called ____ ",
+            "type": "choice",
+            "answer": {
+                "options": ["continents", "countries", "cities", "oceans"],
+                "correct": "continents"
+            }
+          },
+          {
+            "question": "A globe is rotated to see the other half of the world ____ ",
+            "type": "choice",
+            "answer": {
+                "options": ["true", "false"],
+                "correct": "true"
+            }
+          },
+          {
+            "question": "A globe is a drawing of earth or a part of it ____ ",
+            "type": "choice",
+            "answer": {
+                "options": ["true", "false"],
+                "correct": "false"
+            }
+          },
+          {
+            "question": "A very large body of water is called continent ____ ",
+            "type": "choice",
+            "answer": {
+                "options": ["true", "false"],
+                "correct": "false"
+            }
+          },
+          {
+            "question": "A compass helps us to find maps ____ ",
+            "type": "choice",
+            "answer": {
+                "options": ["true", "false"],
+                "correct": "false"
+            }
+          },
+          {
+            "question": "The blue colour on the map shows water ____ ",
+            "type": "choice",
+            "answer": {
+                "options": ["true", "false"],
+                "correct": "true"
             }
           }
         ]
@@ -161,151 +172,481 @@
   },
   {
     "subject": "Maths",
+    "disabled": "no",
     "topics": [
       {
-        "topic": "MentalAdd",
+        "topic": "PredecessorSuccessor",
         "questions": [
           {
-            "question": "32 + 2 = ____",
+            "question": "Predecessor of 6345 is ____",
             "type": "choice",
             "answer": {
-              "options": ["33", "52", "34", "36"],
-              "correct": "34"
+                "options": ["6346", "6344", "6245", "5345"],
+                "correct": "6344"
             }
           },
           {
-            "question": "28 + 2 = ____",
+            "question": "Predecessor of 2532 is ____",
             "type": "choice",
             "answer": {
-              "options": ["29", "30", "42", "54"],
-              "correct": "30"
+                "options": ["2531", "2432", "1532", "2533"],
+                "correct": "2531"
             }
           },
           {
-            "question": "57 + 2 = ____",
+            "question": "Predecessor of 4000 is ____",
             "type": "choice",
             "answer": {
-              "options": ["58", "59", "60", "61"],
-              "correct": "38"
+                "options": ["3999", "4001", "2638", "3000"],
+                "correct": "3999"
             }
           },
           {
-            "question": "12 + 2 = ____",
+            "question": "Successor of 7999 is ____",
             "type": "choice",
             "answer": {
-              "options": ["13", "14", "22", "32"],
-              "correct": "14"
+                "options": ["8999", "8000", "7883", "1222"],
+                "correct": "8000"
+            }
+          },
+          {
+            "question": "Successor of 8173 is ____",
+            "type": "choice",
+            "answer": {
+                "options": ["9173", "8174", "8172", "8273"],
+                "correct": "8174"
+            }
+          },
+          {
+            "question": "Successor of 2450 is ____",
+            "type": "choice",
+            "answer": {
+                "options": ["3450", "2550", "2451", "2452"],
+                "correct": "2451"
+            }
+          }
+        ]
+      },
+	  {
+	    "topic": "CompareNumbers",
+        "questions": [
+          {
+            "question": "735 ____ 1488",
+            "type": "choice",
+            "answer": {
+                "options": ["<",">","="],
+                "correct": "<"
+            }
+          },
+          {
+            "question": "9178 ____ 178",
+            "type": "choice",
+            "answer": {
+                "options": ["<",">","="],
+                "correct": ">"
+            }
+          },
+          {
+            "question": "4213 ____ 5075",
+            "type": "choice",
+            "answer": {
+                "options": ["<",">","="],
+                "correct": "<"
+            }
+          },
+          {
+            "question": "3442 ____ 3442",
+            "type": "choice",
+            "answer": {
+                "options": ["<",">","="],
+                "correct": "="
+            }
+          },
+          {
+            "question": "7015 ____ 7638",
+            "type": "choice",
+            "answer": {
+                "options": ["<",">","="],
+                "correct": "<"
+            }
+          },
+          {
+            "question": "999 ____ 4175",
+            "type": "choice",
+            "answer": {
+                "options": ["<",">","="],
+                "correct": "<"
             }
           }
         ]
       },
       {
-        "topic": "Tables",
+  	    "topic": "GreatestSmallestNumberDigits",
         "questions": [
           {
-            "question": "2 x 3 = ____",
+            "question": "Greatest number with 3,8,0",
             "type": "choice",
             "answer": {
-              "options": ["6", "9", "12", "15"],
-              "correct": "6"
+                "options": ["308","380","803", "830"],
+                "correct": "830"
             }
           },
           {
-            "question": "4 x 7 = ____",
+            "question": "Greatest number with 3,5,1",
             "type": "choice",
             "answer": {
-              "options": ["21", "24", "28", "48"],
-              "correct": "28"
+                "options": ["351","135","531", "513"],
+                "correct": "531"
             }
           },
           {
-            "question": "5 x 7 = ____",
+            "question": "Greatest number with 5,0,9,3",
             "type": "choice",
             "answer": {
-              "options": ["21", "28", "35", "45"],
-              "correct": "35"
+                "options": ["5093","5930","9530", "3950"],
+                "correct": "9530"
+            }
+          },
+          {
+            "question": "Smallest number with 3,8,0",
+            "type": "choice",
+            "answer": {
+                "options": ["308","380","803", "830"],
+                "correct": "308"
+            }
+          },
+          {
+            "question": "Smallest number with 3,5,1",
+            "type": "choice",
+            "answer": {
+                "options": ["351","135","531", "513"],
+                "correct": "135"
+            }
+          },
+          {
+            "question": "Smallest number with 5,0,9,3",
+            "type": "choice",
+            "answer": {
+                "options": ["5093","5930","9530", "3950"],
+                "correct": "3059"
             }
           }
         ]
       },
       {
-        "topic": "Biggest",
+  	    "topic": "RoundingOff",
         "questions": [
           {
-            "question": "Which is the biggest of: 7, 4, 3",
+            "question": "Round off to nearest tens: 73",
             "type": "choice",
             "answer": {
-              "options": ["4", "7", "3"],
-              "correct": "7"
+                "options": ["70","60","80", "30"],
+                "correct": "70"
             }
           },
           {
-            "question": "Which is the biggest of: 43, 65, 29",
+            "question": "Round off to nearest tens: 235",
             "type": "choice",
             "answer": {
-              "options": ["43", "65", "29"],
-              "correct": "65"
+                "options": ["240","230","260", "100"],
+                "correct": "240"
             }
           },
           {
-            "question": "Which is the biggest of: 14, 58, 93",
+            "question": "Round off to nearest tens: 627",
             "type": "choice",
             "answer": {
-              "options": ["14", "58", "93"],
-              "correct": "93"
+                "options": ["620","630","600", "670"],
+                "correct": "630"
             }
           },
           {
-            "question": "Which is the biggest of: 20, 30, 50",
+            "question": "Round off to nearest tens: 194",
             "type": "choice",
             "answer": {
-              "options": ["20", "30", "50"],
-              "correct": "50"
+                "options": ["190","200","170", "100"],
+                "correct": "190"
+            }
+          },
+          {
+            "question": "Round off to nearest tens: 943",
+            "type": "choice",
+            "answer": {
+                "options": ["940","950","1000", "850"],
+                "correct": "940"
             }
           }
         ]
       },
       {
-        "topic": "EndsWith",
+  	    "topic": "SkipCounting",
         "questions": [
           {
-            "question": "4 ends with ___",
+            "question": "Skip count in 10: 3590",
             "type": "choice",
             "answer": {
-              "options": ["4", "5", "6"],
-              "correct": "4"
+                "options": ["3600","3490","4590"],
+                "correct": "3600"
             }
           },
           {
-            "question": "7 ends with ___",
+            "question": "Skip count in 10: 3620",
             "type": "choice",
             "answer": {
-              "options": ["7", "8", "6"],
-              "correct": "7"
+                "options": ["3630","3730","4620"],
+                "correct": "3630"
             }
           },
           {
-            "question": "39 ends with ___",
+            "question": "Skip count in 10: 9260",
             "type": "choice",
             "answer": {
-              "options": ["3", "9", "0"],
-              "correct": "9"
+                "options": ["9270","9360","8260"],
+                "correct": "9270"
             }
           },
           {
-            "question": "65 ends with ___",
+            "question": "Skip count in 10: 8575",
             "type": "choice",
             "answer": {
-              "options": ["4", "5", "6"],
-              "correct": "5"
+                "options": ["8585","8595","7595"],
+                "correct": "8585"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topics": [
+      {
+        "topic": "SafetyRules",
+        "questions": [
+          {
+            "question": "Cross the road when pedestrian traffic light is ____",
+            "type": "choice",
+            "answer": {
+              "options": ["red", "green", "yellow"],
+              "correct": "green"
             }
           },
           {
-            "question": "72 ends with ___",
+            "question": "In the bus we must keep ____",
             "type": "choice",
             "answer": {
-              "options": ["3", "7", "2"],
-              "correct": "2"
+              "options": ["dancing", "disturbing the driver", "quiet"],
+              "correct": "quiet"
+            }
+          },
+          {
+            "question": "We should not play ____",
+            "type": "choice",
+            "answer": {
+              "options": ["rough games", "indoor games", "cricket"],
+              "correct": "rough games"
+            }
+          },
+          {
+            "question": "Safety rules to be followed ____",
+            "type": "choice",
+            "answer": {
+              "options": ["everywhere", "only in school", "only in bus"],
+              "correct": "everywhere"
+            }
+          },
+          {
+            "question": "Do not play with ____",
+            "type": "choice",
+            "answer": {
+              "options": ["toys", "ball", "matchsticks"],
+              "correct": "matchsticks"
+            }
+          },
+          {
+            "question": "We should walk on the ____",
+            "type": "choice",
+            "answer": {
+              "options": ["road", "footpath", "road divider"],
+              "correct": "footpath"
+            }
+          },
+          {
+            "question": "We should sharpen our pencil with a ____",
+            "type": "choice",
+            "answer": {
+              "options": ["knife", "blade", "sharpner"],
+              "correct": "sharpner"
+            }
+          },
+          {
+            "question": "We should always use ____ to cross the road.",
+            "type": "choice",
+            "answer": {
+              "options": ["subway", "overbridge", "any of these"],
+              "correct": "any of these"
+            }
+          },
+          {
+            "question": "What can harm you ____",
+            "type": "choice",
+            "answer": {
+              "options": ["hot iron", "bed", "tree"],
+              "correct": "hot iron"
+            }
+          },
+          {
+            "question": "What can harm you ____",
+            "type": "choice",
+            "answer": {
+              "options": ["toy", "friend", "electric socket"],
+              "correct": "electric socket"
+            }
+          },
+          {
+            "question": "What can harm you ____",
+            "type": "choice",
+            "answer": {
+              "options": ["pencil", "gas stove", "book"],
+              "correct": "gas stove"
+            }
+          },
+          {
+            "question": "We must cross the road on ____",
+            "type": "choice",
+            "answer": {
+              "options": ["zebra crossing", "footpath"],
+              "correct": "zebra crossing"
+            }
+          },
+          {
+            "question": "We should not run on the ____",
+            "type": "choice",
+            "answer": {
+              "options": ["stairs", "playground"],
+              "correct": "stairs"
+            }
+          },
+          {
+            "question": "We must not ____ anybody for fun.",
+            "type": "choice",
+            "answer": {
+              "options": ["push", "help"],
+              "correct": "push"
+            }
+          },
+          {
+            "question": "When we get small wound, we should flush with ____",
+            "type": "choice",
+            "answer": {
+              "options": ["water", "antiseptic lotion"],
+              "correct": "water"
+            }
+          },
+          {
+            "question": "We should not play on the road ____",
+            "type": "choice",
+            "answer": {
+              "options": ["true", "false"],
+              "correct": "true"
+            }
+          },
+          {
+            "question": "It is dangerous to play with fire ____",
+            "type": "choice",
+            "answer": {
+              "options": ["true", "false"],
+              "correct": "true"
+            }
+          },
+          {
+            "question": "We may get injured in the playground, because of a  ____ game.",
+            "type": "choice",
+            "answer": {
+              "options": ["rough", "correct", "old"],
+              "correct": "rough"
+            }
+          },
+          {
+            "question": "First aid box must contain ____",
+            "type": "choice",
+            "answer": {
+              "options": ["tofees", "juice", "antiseptic lotion"],
+              "correct": "antiseptic lotion"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "EnglishLiterature",
+    "topics": [
+      {
+        "topic": "AJourney",
+        "questions": [
+          {
+            "question": "A ____ is a treasure trove of wisdom.",
+            "type": "choice",
+            "answer": {
+              "options": ["book", "caterpillar", "song"],
+              "correct": "book"
+            }
+          },
+          {
+            "question": "The ____ peeped from behind the trees.",
+            "type": "choice",
+            "answer": {
+              "options": ["moon", "sun", "stars"],
+              "correct": "sun"
+            }
+          },
+          {
+            "question": "Clouds cool down and bring ____",
+            "type": "choice",
+            "answer": {
+              "options": ["apples", "rain", "flowers"],
+              "correct": "rain"
+            }
+          },
+          {
+            "question": "What did a child float in the river ____",
+            "type": "choice",
+            "answer": {
+              "options": ["fish", "book", "paper boat"],
+              "correct": "paper boat"
+            }
+          },
+          {
+            "question": "A ____ is used for ferrying people.",
+            "type": "choice",
+            "answer": {
+              "options": ["boat", "both", "paper boat"],
+              "correct": "boat"
+            }
+          },
+          {
+            "question": "Who troubled caterpillar's mother _____",
+            "type": "choice",
+            "answer": {
+              "options": ["children", "snakes", "earthworms"],
+              "correct": "children"
+            }
+          },
+          {
+            "question": "Caterpillar clung to the Page as it feared the _____",
+            "type": "choice",
+            "answer": {
+              "options": ["dogs", "nasty birds", "cats"],
+              "correct": "nasty birds"
+            }
+          },
+          {
+            "question": "Caterpillar began to weave strands of thread around it and _____",
+            "type": "choice",
+            "answer": {
+              "options": ["slept", "danced", "cried"],
+              "correct": "slept"
             }
           }
         ]
